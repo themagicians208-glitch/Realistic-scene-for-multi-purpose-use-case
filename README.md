@@ -1,35 +1,41 @@
-# Chicken Country
+# Chicken Country — Godot Nature Scene
 
-Welcome to Chicken Country, a refreshed Godot 4 nature scene with a stylized chicken landmark! 🌍🐔
+A nature-scene project for Godot Engine featuring environmental scenery and a stylized chicken landmark.
 
-## Overview
+## Repository contents
 
-This project showcases a stunning and realistic scene created in the Godot 4 game engine. Immerse yourself in a visually captivating environment that demonstrates the capabilities of Godot 4 for game development and scene design.
+- `Realistic Nature Godot - 4.1.rar` — project archive. Extract it before opening the project in Godot.
+- `chicken-runtime-check.log` and `runtime10.log` — Godot runtime logs.
 
-**Disclaimer:** This project is created solely for demonstration purposes. You are not permitted to use this project for commercial purposes or any other unauthorized use.
+**Verification note:** The archive has not been extracted and independently tested as part of this documentation update. Its contents and exact engine compatibility should be checked before relying on it.
 
-## YouTube Video
+## Getting started
 
-Watch a walkthrough and behind-the-scenes on our YouTube channel: [GW TUTS](https://www.youtube.com/@gwtuts4061)
+1. Clone or download this repository.
+2. Extract `Realistic Nature Godot - 4.1.rar` with a RAR-compatible utility.
+3. Open Godot Engine and import the extracted project directory (look for `project.godot`).
+4. Keep a backup before opening the project in a different Godot version or accepting resource/mesh conversions.
+5. Run the project from the Godot editor to test it.
 
-**YouTube Playlist:** [Complete tutorial for this project ](https://youtube.com/playlist?list=PLXOuFjRwH6NhxefQlrXjVOwsel1DospfT&si=T0-Z9CxilNRCrFJl)
+The archive filename mentions Godot 4.1, but compatibility has not been independently confirmed.
 
-## Scene Highlights
+## Screenshots
 
-Explore the realism with these snapshots from the scene:
+![Scene screenshot 1](https://github.com/Lakshman-YT/Realistic-scene-1/blob/main/images/1.jpg)
+![Scene screenshot 2](https://github.com/Lakshman-YT/Realistic-scene-1/blob/main/images/2.jpg)
+![Scene screenshot 3](https://github.com/Lakshman-YT/Realistic-scene-1/blob/main/images/3.jpg)
+![Scene screenshot 4](https://github.com/Lakshman-YT/Realistic-scene-1/blob/main/images/4.jpg)
+![Scene screenshot 5](https://github.com/Lakshman-YT/Realistic-scene-1/blob/main/images/5.jpg)
 
-1. ![Image 1](https://github.com/Lakshman-YT/Realistic-scene-1/blob/main/images/1.jpg)
-2. ![Image 2](https://github.com/Lakshman-YT/Realistic-scene-1/blob/main/images/2.jpg)
-3. ![Image 3](https://github.com/Lakshman-YT/Realistic-scene-1/blob/main/images/3.jpg)
-4. ![Image 4](https://github.com/Lakshman-YT/Realistic-scene-1/blob/main/images/4.jpg)
-5. ![Image 5](https://github.com/Lakshman-YT/Realistic-scene-1/blob/main/images/5.jpg)
+## Video and tutorial
 
+- YouTube channel: [GW TUTS](https://www.youtube.com/@gwtuts4061)
+- Tutorial playlist: [Watch the project playlist](https://youtube.com/playlist?list=PLXOuFjRwH6NhxefQlrXjVOwsel1DospfT&si=T0-Z9CxilNRCrFJl)
 
+## Usage and permissions
 
-Don't forget to like, share, and subscribe for more captivating content related to Godot 4 and game development!
+The original README states that commercial or otherwise unauthorized use is not permitted. No license file was identified during this review, so do not assume the project or its assets can be redistributed, modified, or reused. Obtain permission from the rights holder before reuse.
 
-## Project Usage
+## Runtime logs
 
-Clone this repository to explore the project and learn from its structure. However, keep in mind the strict limitation on the usage mentioned in the disclaimer.
-
-Happy exploring! 🎮✨
+The included logs contain Godot output and warnings about older mesh surface formats. Such warnings alone do not prove the project fails to run; test the extracted project to determine whether any action is needed.
