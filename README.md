@@ -23,10 +23,6 @@ The archive filename mentions Godot 4.1, but compatibility has not been independ
 
 Screenshots should be captured from this project's own build and stored in this repository so the README showcases the version maintained here.
 
-## Video and tutorial
-
-- YouTube channel: [GW TUTS](https://www.youtube.com/@gwtuts4061)
-- Tutorial playlist: [Watch the project playlist](https://youtube.com/playlist?list=PLXOuFjRwH6NhxefQlrXjVOwsel1DospfT&si=T0-Z9CxilNRCrFJl)
 
 ## Usage and permissions
 
