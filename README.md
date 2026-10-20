@@ -1,33 +1,23 @@
 # Realistic Nature Scene — Godot Engine
 
-This is my Godot Engine 3D nature-scene project, featuring environmental scenery and a stylized chicken landmark. This repository includes the project archive and supporting runtime logs.
+This is my 3D nature-scene project for Godot Engine. It features an outdoor environment with trees, ferns, rocks, and a stylized chicken landmark.
 
-## Repository contents
+## What's in this repository
 
-- `Realistic Nature Godot - 4.1.rar` — project archive. Extract it before opening the project in Godot.
-- `chicken-runtime-check.log` and `runtime10.log` — Godot runtime logs.
+- `Realistic Nature Godot - 4.1.rar` — the project archive.
+- `chicken-runtime-check.log` and `runtime10.log` — runtime output logs.
 
-**Verification note:** The archive has not been extracted and independently tested as part of this documentation update. Its contents and exact engine compatibility should be checked before relying on it.
-
-## Getting started
+## Open the project
 
 1. Clone or download this repository.
 2. Extract `Realistic Nature Godot - 4.1.rar` with a RAR-compatible utility.
-3. Open Godot Engine and import the extracted project directory (look for `project.godot`).
-4. Keep a backup before opening the project in a different Godot version or accepting resource/mesh conversions.
-5. Run the project from the Godot editor to test it.
+3. In Godot, import the extracted project folder containing `project.godot`.
+4. Open and run the project from the editor.
 
-The archive filename mentions Godot 4.1, but compatibility has not been independently confirmed.
+## Compatibility and logs
 
-## Screenshots
+The archive's filename refers to Godot 4.1. The included runtime log records Godot 4.7.2 output and warnings about older mesh surface formats. The log alone does not establish which engine version the archived project was designed for, nor does it prove that the archive has been independently tested. Back up the project before allowing an engine version to upgrade or re-save its resources.
 
-Screenshots should be captured from this project's own build and stored in this repository so the README showcases the version maintained here.
+## Credits and permissions
 
-
-## Usage and permissions
-
-No license file is currently included in this repository. Before redistributing the project or its assets, or using them commercially, confirm that you have the necessary rights and permissions. Add a license file if you want to define explicit reuse terms for your own work.
-
-## Runtime logs
-
-The included logs contain Godot output and warnings about older mesh surface formats. Such warnings alone do not prove the project fails to run; test the extracted project to determine whether any action is needed.
+This repository does not currently include a separate license file. Before redistributing the project or its assets, confirm the applicable rights and permissions for all included material. Add a license if you want to specify reuse terms for material you have the right to license.
