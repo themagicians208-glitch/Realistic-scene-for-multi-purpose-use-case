@@ -1,6 +1,6 @@
-# Chicken Country — Godot Nature Scene
+# Realistic Nature Scene — Godot Engine
 
-A nature-scene project for Godot Engine featuring environmental scenery and a stylized chicken landmark.
+This is my Godot Engine 3D nature-scene project, featuring environmental scenery and a stylized chicken landmark. This repository includes the project archive and supporting runtime logs.
 
 ## Repository contents
 
@@ -21,11 +21,7 @@ The archive filename mentions Godot 4.1, but compatibility has not been independ
 
 ## Screenshots
 
-![Scene screenshot 1](https://github.com/Lakshman-YT/Realistic-scene-1/blob/main/images/1.jpg)
-![Scene screenshot 2](https://github.com/Lakshman-YT/Realistic-scene-1/blob/main/images/2.jpg)
-![Scene screenshot 3](https://github.com/Lakshman-YT/Realistic-scene-1/blob/main/images/3.jpg)
-![Scene screenshot 4](https://github.com/Lakshman-YT/Realistic-scene-1/blob/main/images/4.jpg)
-![Scene screenshot 5](https://github.com/Lakshman-YT/Realistic-scene-1/blob/main/images/5.jpg)
+Screenshots should be captured from this project's own build and stored in this repository so the README showcases the version maintained here.
 
 ## Video and tutorial
 
@@ -34,7 +30,7 @@ The archive filename mentions Godot 4.1, but compatibility has not been independ
 
 ## Usage and permissions
 
-The original README states that commercial or otherwise unauthorized use is not permitted. No license file was identified during this review, so do not assume the project or its assets can be redistributed, modified, or reused. Obtain permission from the rights holder before reuse.
+No license file is currently included in this repository. Before redistributing the project or its assets, or using them commercially, confirm that you have the necessary rights and permissions. Add a license file if you want to define explicit reuse terms for your own work.
 
 ## Runtime logs
 
